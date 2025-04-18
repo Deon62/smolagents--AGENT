@@ -28,7 +28,9 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 - 🌐 Live web scraping with DuckDuckGo and custom tools
 - 🧠 Powered by the open-weight **Qwen2.5-Coder-32B** model via Hugging Face API
 - 📊 **Langfuse tracing** for observability and debugging
-  ![Uploading image.png…]()
+
+![Uploading image.png…]()
+
 
 
 ---
