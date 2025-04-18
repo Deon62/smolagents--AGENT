@@ -1,0 +1,9 @@
+duckduckgo_search
+markdownify
+requests
+smolagents
+
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+openinference-instrumentation-smolagents
