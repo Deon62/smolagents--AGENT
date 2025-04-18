@@ -29,8 +29,8 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 - 🧠 Powered by the open-weight **Qwen2.5-Coder-32B** model via Hugging Face API
 - 📊 **Langfuse tracing** for observability and debugging
 
-![Uploading image.png…]()
 
+![Uploading WhatsApp Image 2025-04-18 at 19.45.09_b46489b8.jpg…]()
 
 
 ---
