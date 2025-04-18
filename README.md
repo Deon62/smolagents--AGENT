@@ -30,8 +30,6 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 - 📊 **Langfuse tracing** for observability and debugging
 
 
-![Uploading WhatsApp Image 2025-04-18 at 19.45.09_b46489b8.jpg…]()
-
 
 ---
 
@@ -44,6 +42,9 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 - **Final Answer Tool** - for agent summarization or halting
 
 ---
+
+![Uploading WhatsApp Image 2025-04-18 at 19.45.09_0d2658db.jpg…]()
+
 
 ## 🚀 Getting Started
 
